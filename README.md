@@ -82,7 +82,7 @@
 
  ## ✍️ AI & Robotics Insight
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=We%20are%20going%20to%20have%20the%20period%20of%20the%20most%20profound%20transformation%20that%20humanity%20has%20ever%20experienced.&author=Elon%20Musk" />
 </div>
 
 <br/> 
