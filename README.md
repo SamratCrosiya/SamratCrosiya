@@ -1,10 +1,9 @@
-<!-- Name --> 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style= width:" 100%" />
 </div>  
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Samrat Crosiya
-<h3 align="left"> Full Stack Developer | AI & ML Enthusiast | Cloud Infrastructure Engineer | DevOps Engineer</h3>
+<h3 align="centre"> Full Stack Developer | AI & ML Enthusiast | Cloud Infrastructure Engineer | DevOps   | Cloudops  | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- About --> 
@@ -16,10 +15,10 @@
 
 
 - 🔭 I'm currently working on **[Your Current Project - Add Here]**
-- 🌱 I'm currently learning **Full Stack Development, AI/ML Development, Cloud Computing, DevOps Practices**  
+- 🌱 I'm currently learning <strong>**Full Stack Development, AI/ML Development, Cloud Computing, DevOps Practices**  </strong>
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SamratCrosiya)  
-- 💬 Ask me about **JavaScript, Python, React, Node.js, AI/ML, Cloud Computing, DevOps**  
-- 📫 How to reach me jamesb0074000@gmail.com  
+- 💬 Ask me about <strong>**JavaScript, Python, React, Node.js, AI/ML, Cloud Computing, DevOps**  </strong>
+- 📫 How to reach me <strong>jamesb0074000@gmail.com / samrat.crosiya.cs23@ggits.net </strong>
 - 📄 Know about my experiences [Resume](#)  
 - 📑 My Portfolio [Portfolio](#)
 
@@ -74,16 +73,16 @@
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- Leetcode Stats --> 
-## LeetCode Stats
-<!-- Add your LeetCode username below -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Noto%20Serif)
+<!-- Leetcode Stats 
+## LeetCode Stats--> 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Random Quotes --> 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ AI & Robotics Insight
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=AI%20is%20the%20new%20electricity.%20Just%20as%20electricity%20transformed%20every%20major%20industry%20a%20century%20ago%2C%20AI%20is%20now%20poised%20to%20do%20the%20same.&author=Andrew%20Ng" />
+</div>
 <br/> 
 
 <!-- Github Trophies 
@@ -182,12 +181,15 @@
 ```javascript
 const samrat = {
     location: "India",
-    currentFocus: "______________________",  // Add your current project here
+    currentFocus: "SuperApp Development"
     passionateAbout: ["Artificial Intelligence", "Web Development", "CloudOps", "DevOps", "Problem Solving"],
     learning: ["Machine Learning", "Cloud Architecture", "DevOps Practices", "Full Stack Development"],
     askMeAbout: ["JavaScript", "Python", "React", "Node.js", "AI/ML", "Cloud Computing", "DevOps"],
     reachMe: "jamesb0074000@gmail.com",
-    funFact: "I turn coffee into code and bugs into features! ☕💻"
+   eagerly Working on: ["Edge AI", "Offline LLMs", "Robotics", "Full Stack"],
+    notableProjects: ["MediBot", "Chotu AI", "Offline AI", "SuperApp"],
+    funFact: "I build AI that doesn't even need the internet to think! 🧠⚡"
+
 };
 ```
 
@@ -218,13 +220,15 @@ const samrat = {
 </div>
 
 ## 🎯 What I'm Up To
-
-- 🔭 Currently working on **[Your Current Project]**
+- 🔭 I'm currently working on **SuperApp (A Multi-utility Ecosystem)**
+- 🌱 Recently built **Offline AI**, a powerful LLM that functions without internet connectivity.
+- 👨‍💻 Developed **MediBot** (Healthcare AI) and **Chotu AI** (Personal Assistant).
+- 💬 Ask me about **Edge AI, Full Stack Development, and AI/ML****Web Development, AI/ML, Cloud, DevOps**.
 - 🌱 Learning **Cloud Architecture, DevOps Tools, and Advanced ML**
 - 👨‍💻 Building full-stack applications with modern tech stacks
 - 💡 Exploring CloudOps and DevOps best practices
 - 🎯 Focused on creating innovative solutions using AI
-- 💬 Ask me about **Web Development, AI/ML, Cloud, DevOps**
+
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
