@@ -224,6 +224,7 @@ const samrat = {
 - 🌱 Recently built **Offline AI**, a powerful LLM that functions without internet connectivity.
 - 👨‍💻 Developed **MediBot** (Healthcare AI) and **Chotu AI** (Personal Assistant).
 - 💬 Ask me about **Edge AI, Full Stack Development, and AI/ML****Web Development, AI/ML, Cloud, DevOps**.
+- ⚡ funFact: "I build AI that doesn't even need the internet to think! 🧠⚡"
 - 🌱 Learning **Cloud Architecture, DevOps Tools, and Advanced ML**
 - 👨‍💻 Building full-stack applications with modern tech stacks
 - 💡 Exploring CloudOps and DevOps best practices
