@@ -79,10 +79,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Random Quotes --> 
-## ✍️ AI & Robotics Insight
+
+ ## ✍️ AI & Robotics Insight
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=AI%20is%20the%20new%20electricity.%20Just%20as%20electricity%20transformed%20every%20major%20industry%20a%20century%20ago%2C%20AI%20is%20now%20poised%20to%20do%20the%20same.&author=Andrew%20Ng" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk" />
 </div>
+
 <br/> 
 
 <!-- Github Trophies 
@@ -388,3 +390,4 @@ const samrat = {
   
   <img src="https://komarev.com/ghpvc/?username=SamratCrosiya&style=for-the-badge&color=blue" alt="profile views" />
 </div> -->
+
