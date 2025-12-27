@@ -361,25 +361,8 @@ const samrat = {
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratCrosiya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</div>
 
 ## 🐍 Contribution Snake
 
