@@ -105,15 +105,14 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/SamratCrosiya">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratCrosiya&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&include_all_commits=true&count_private=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
+<td width="50%">
+  <h3 align="center"><strong>LeetCode Stats</strong></h3>
+  <p align="center">
+    <a href="https://leetcode.com/u/SamratCrosiya/">
+      <img align="center" src="https://leetcard.jacoblin.cool/SamratCrosiya?theme=dark&font=Baloo&ext=contest" />
+    </a>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
