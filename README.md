@@ -13,14 +13,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamratCrosiya&label=Profile%20views&color=0e75b6&style=flat" alt="SamratCrosiya" /> </p>
 
-
-- 🔭 I'm currently working on **[Your Current Project - Add Here]**
-- 🌱 I'm currently learning <strong>**Full Stack Development, AI/ML Development, Cloud Computing, DevOps Practices**  </strong>
+* 🔭 I'm currently building **AI-powered, Full-Stack, and Cloud-Native applications**, focusing on scalable solutions and real-world problem solving.
+* 🌱 I'm currently learning **Advanced Full-Stack Development, Machine Learning, MLOps, Cloud Computing, DevOps, and System Design**.
+* 👨‍💻 Explore my projects on **GitHub:** https://github.com/SamratCrosiya
+* 💬 Ask me about **JavaScript, TypeScript, Python, React, Next.js, Node.js, AI/ML, Cloud Computing, DevOps, and Software Architecture**.
+* 🚀 Passionate about building **end-to-end products**, from AI model development to cloud deployment and production-ready applications.
+* 📚 Constantly exploring **LLMs, Generative AI, Vector Databases, RAG Systems, and Modern Backend Engineering**.
+* 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SamratCrosiya)  
-- 💬 Ask me about <strong>**JavaScript, Python, React, Node.js, AI/ML, Cloud Computing, DevOps**  </strong>
 - 📫 How to reach me <strong>jamesb0074000@gmail.com / samrat.crosiya.cs23@ggits.net </strong>
 - 📄 Know about my experiences [Resume](#)  
-- 📑 My Portfolio [Portfolio](#)
+- 📑 My Portfolio [Portfolio](https://samratcrosiya-portfolio.vercel.app/)
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -221,16 +224,12 @@ const samrat = {
 </div>
 
 ## 🎯 What I'm Up To
-- 🔭 I'm currently working on **SuperApp (A Multi-utility Ecosystem)**
-- 🌱 Recently built **Offline AI**, a powerful LLM that functions without internet connectivity.
-- 👨‍💻 Developed **MediBot** (Healthcare AI) and **Chotu AI** (Personal Assistant).
-- 💬 Ask me about **Edge AI, Full Stack Development, and AI/ML****Web Development, AI/ML, Cloud, DevOps**.
-- ⚡ funFact: "I build AI that doesn't even need the internet to think! 🧠⚡"
-- 🌱 Learning **Cloud Architecture, DevOps Tools, and Advanced ML**
-- 👨‍💻 Building full-stack applications with modern tech stacks
-- 💡 Exploring CloudOps and DevOps best practices
-- 🎯 Focused on creating innovative solutions using AI
-
+🌱 Currently learning and exploring Data Science, Machine Learning, Deep Learning, MLOps, Cloud Architecture, and DevOps Practices.
+👨‍💻 Building scalable full-stack applications and AI-driven solutions using modern technologies.
+💡 Exploring LLM Engineering, RAG Systems, Vector Databases, Model Deployment, and Cloud-Native Architectures.
+💬 Ask me about Python, Machine Learning, Deep Learning, Data Science, MLOps, AI Engineering, Full-Stack Development, Cloud Computing, and DevOps.
+🎯 Focused on creating impactful AI solutions that bridge research and real-world applications.
+⚡ Fun fact: I build AI systems that can think even when the internet can't. 🧠⚡
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
