@@ -222,12 +222,18 @@ const samrat = {
 </div>
 
 ## 🎯 What I'm Up To
--🌱 Currently learning and exploring Data Science, Machine Learning, Deep Learning, MLOps, Cloud Architecture, and DevOps Practices.
--👨‍💻 Building scalable full-stack applications and AI-driven solutions using modern technologies.
--💡 Exploring LLM Engineering, RAG Systems, Vector Databases, Model Deployment, and Cloud-Native Architectures.
--💬 Ask me about Python, Machine Learning, Deep Learning, Data Science, MLOps, AI Engineering, Full-Stack Development, Cloud Computing, and DevOps.
--🎯 Focused on creating impactful AI solutions that bridge research and real-world applications.
--⚡ Fun fact: I build AI systems that can think even when the internet can't. 🧠⚡
+
+-  **🌱 Currently learning and exploring Data Science, Machine Learning, Deep Learning, MLOps, Cloud Architecture, and DevOps Practices.**
+-  
+-  **👨‍💻 Building scalable full-stack applications and AI-driven solutions using modern technologies.**
+-  
+-  **💡 Exploring LLM Engineering, RAG Systems, Vector Databases, Model Deployment, and Cloud-Native Architectures.**
+-  
+-  **💬 Ask me about Python, Machine Learning, Deep Learning, Data Science, MLOps, AI Engineering, Full-Stack Development, Cloud Computing, and DevOps.**
+-  
+-  **🎯 Focused on creating impactful AI solutions that bridge research and real-world applications.**
+-  
+-  **⚡ Fun fact: I build AI systems that can think even when the internet can't. 🧠⚡**
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
